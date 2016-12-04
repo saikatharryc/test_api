@@ -1,7 +1,7 @@
 {
-  "name": "myapp",
+  "name": "test_api",
   "version": "1.0.0",
-  "description": "its a test api",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,22 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/saikatharryc/test_api.git"
   },
-  "keywords": [
-    "node",
-    "express",
-    "api",
-    "test"
-  ],
-  "author": "saikat",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/saikatharryc/test_api/issues"
   },
-  "homepage": "https://github.com/saikatharryc/test_api#readme",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "mongoose": "^4.6.5",
-    "node-restful": "^0.2.5"
-  }
+  "homepage": "https://github.com/saikatharryc/test_api#readme"
 }
